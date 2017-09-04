@@ -208,7 +208,6 @@ LensInfo : Information of the lens present in the module.
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
   </CameraModuleConfig>
-
   <!--
   <CameraModuleConfig>
     <CameraId>0</CameraId>
