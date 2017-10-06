@@ -165,8 +165,8 @@ LensInfo : Information of the lens present in the module.
     <ActuatorName>lc898217xc_imx350</ActuatorName>
     <EepromName>imx350_gt24c64ass</EepromName>
     <ChromatixName>imx350_chromatix</ChromatixName>
-	<ModesSupported>1</ModesSupported>
-	<Position>BACK_AUX</Position>
+    <ModesSupported>1</ModesSupported>
+    <Position>BACK_AUX</Position>
     <MountAngle>90</MountAngle>
     <CSIInfo>
       <CSIDCore>1</CSIDCore>

@@ -36,6 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/etc/camera/imx350_chromatix.xml:system/etc/camera/imx350_chromatix.xml \
     vendor/oneplus/cheeseburger/proprietary/etc/camera/imx371_chromatix.xml:system/etc/camera/imx371_chromatix.xml \
     vendor/oneplus/cheeseburger/proprietary/etc/camera/imx398_chromatix.xml:system/etc/camera/imx398_chromatix.xml \
+    vendor/oneplus/cheeseburger/proprietary/etc/camera/s5k3p8sp_chromatix.xml:system/etc/camera/s5k3p8sp_chromatix.xml \
     vendor/oneplus/cheeseburger/proprietary/etc/firmware/a530_pfp.fw:system/etc/firmware/a530_pfp.fw \
     vendor/oneplus/cheeseburger/proprietary/etc/firmware/a530_pm4.fw:system/etc/firmware/a530_pm4.fw \
     vendor/oneplus/cheeseburger/proprietary/etc/firmware/a540_gpmu.fw2:system/etc/firmware/a540_gpmu.fw2 \
